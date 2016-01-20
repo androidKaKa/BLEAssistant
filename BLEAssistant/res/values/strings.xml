@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLEAssistant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="strWrite">写内容</string>
+    <string name="strHex">Hex</string>
+    <string name="strSend">发送</string>
+     <string name="strRead">读内容</string>
+     <string name="strTime">时间</string>
+     <string name="strTimeSet">设置时间</string>
+     <string name="strAutoSend">自动发送</string>
+     <string name="strMs">ms</string>
+     <string name="unknown_device">unknown device</string>
+     <string name="strSearchBLE">搜索设备</string>
+     <string name="strDisCon">断开设备</string>
+     <string name="deviceScan">扫描设备</string>
+</resources>
